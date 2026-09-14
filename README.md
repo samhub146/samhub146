@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there, I'm samhub146 👋
 
-<!--
-**samhub146/samhub146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Sydney, Australia.
 
-Here are some ideas to get you started:
+#### 🛠️ What I use
+Linux, Docker, Kubernetes, Terraform, GitHub Actions, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 What I'm up to
+- Working on automation, container orchestration, developer tooling
+- Exploring new frameworks and tools
+- Contributing to open-source projects
+
+📫 Reach me: [@samhub146](https://github.com/samhub146) on GitHub
